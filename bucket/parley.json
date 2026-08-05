@@ -1,16 +1,16 @@
 {
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Durable, role-addressed messaging for independent agent sessions",
   "homepage": "https://github.com/zerotomvp/parley-cli",
   "license": "GPL-3.0-only",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/zerotomvp/parley-cli/releases/download/v1.1.1/parley-1.1.1-win-x64.zip",
-      "hash": "aef6a44d2319f3f77cfc913966110dad995e7378a8792665ae521c8e1fad2c22"
+      "url": "https://github.com/zerotomvp/parley-cli/releases/download/v1.1.2/parley-1.1.2-win-x64.zip",
+      "hash": "b6aa177c1f6a9cbdaed2fbb56f93206519eeeae35fe063c0ca36c1237e4b8e37"
     },
     "arm64": {
-      "url": "https://github.com/zerotomvp/parley-cli/releases/download/v1.1.1/parley-1.1.1-win-arm64.zip",
-      "hash": "253cd05b46e1a5fc973d30572b0fe3330208f59e02d7821ec0681b188f46b236"
+      "url": "https://github.com/zerotomvp/parley-cli/releases/download/v1.1.2/parley-1.1.2-win-arm64.zip",
+      "hash": "8ae7d1eb39e6713ba283be7c98545ab3d3b6fa08fd118b56ab27bf3d81655929"
     }
   },
   "bin": "parley.exe",
